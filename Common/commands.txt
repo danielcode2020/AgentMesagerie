@@ -1,0 +1,14 @@
+open 3 terminals and type :
+
+ cd\ && cd "Users\user\Desktop\university\PAD\lab1\Agent Mesagerie\Broker\bin\Debug\net6.0" && start Broker.exe && cd \ && cd "Users\user\Desktop\university\PAD\lab1\Agent Mesagerie\Publisher\bin\Debug\net6.0" && start Publisher.exe && cd \ && cd "Users\user\Desktop\university\PAD\lab1\Agent Mesagerie\Subscriber\bin\Debug\net6.0" && start Subscriber.exe && cd \
+cd \ go back to first folder
+
+
+-- start broker
+cd\ && cd "Users\user\Desktop\university\PAD\lab1\Agent Mesagerie\Broker\bin\Debug\net6.0" && start Broker.exe && cd \
+
+-- start publisher
+cd\ && cd "Users\user\Desktop\university\PAD\lab1\Agent Mesagerie\Publisher\bin\Debug\net6.0" && start Publisher.exe && cd \ 
+
+-- start subscriber
+cd\ && cd "Users\user\Desktop\university\PAD\lab1\Agent Mesagerie\Subscriber\bin\Debug\net6.0" && start Subscriber.exe && cd \
